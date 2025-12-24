@@ -1,0 +1,4 @@
+{
+  "type": "PRODUCT",
+  "required_fields": ["summary", "ingredients", "benefits", "usage", "safety", "price"]
+}

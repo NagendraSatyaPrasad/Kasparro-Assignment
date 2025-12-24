@@ -1,0 +1,37 @@
+{
+  "page_type": "COMPARISON",
+  "product_a": {
+    "name": "GlowBoost Vitamin C Serum",
+    "concentration": "10% Vitamin C",
+    "skin_type": [
+      "Oily",
+      "Combination"
+    ],
+    "ingredients": [
+      "Vitamin C",
+      "Hyaluronic Acid"
+    ],
+    "benefits": [
+      "Brightening",
+      "Fades dark spots"
+    ],
+    "usage": "Apply 2\u00e2\u20ac\u201c3 drops in the morning before sunscreen",
+    "side_effects": "Mild tingling for sensitive skin",
+    "price": 699
+  },
+  "product_b": {
+    "name": "RadiantFix Serum",
+    "ingredients": [
+      "Vitamin C"
+    ],
+    "benefits": [
+      "Skin brightening"
+    ],
+    "price": 899
+  },
+  "comparison": {
+    "ingredients": "GlowBoost has more ingredients than Product B.",
+    "benefits": "Both focus on skin brightening.",
+    "price": "GlowBoost is more affordable."
+  }
+}
